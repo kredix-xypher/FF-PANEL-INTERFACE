@@ -4,7 +4,7 @@ A interface for free fire panel . Only interface and this will not inject or wor
 
 # KREDIX XYPHER - Game Enhancement Interface
 
-![KREDIX Interface](https://raw.githubusercontent.com/kredix-xypher/FF-PANEL-INTERFACE/main/image.png)
+![KREDIX Interface](https://raw.githubusercontent.com/kredix-xypher/FF-PANEL-INTERFACE/main/interface-preview.png)
 
 **Disclaimer**: This is a simulation interface only. It does not contain any actual game cheating functionality and should not be used in real game environments.
 
